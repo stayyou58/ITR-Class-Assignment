@@ -1,6 +1,7 @@
 # ITR-Class-Assignment
 
 It's NSYSU MIS master course "Information Technology Research"'s In class assignment and Take home assignment.
+
 Using JAVA to research Data structure.
 
 In class assignment 1-Depth of tree's height
