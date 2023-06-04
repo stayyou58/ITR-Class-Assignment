@@ -1,0 +1,151 @@
+12
+start S A S A A S A C S A A
+35
+0 1 0 2 0 3 0 4 0 5 1 6 1 7 1 8 1 9 1 10 2 6 2 7 2 8 2 9 2 10 3 6 3 7 3 8 3 9 3 10 4 6 4 7 4 8 4 9 4 10 5 6 5 7 5 8 5 9 5 10 6 11 7 11 8 11 9 11 10 11
+5
+S S A A C
+96
+S S S C S
+S S C S S
+S S C C S
+S S C C C
+S S C C A
+S S C A S
+S S C A C
+S S A C S
+S S A C C
+S S A A S
+S C C C S
+S C C C C
+S C C A S
+S C A C S
+S A S C S
+S A S C C
+S A S A S
+S A C S S
+S A C S C
+S A C C S
+S A C C C
+S A C C A
+S A C A S
+S A C A C
+S A C A A
+S A A S S
+S A A C S
+S A A C C
+S A A C A
+S A A A S
+S A A A C
+C S C C S
+C S C C C
+C S C A S
+C S A C S
+C C C C S
+C A S C S
+C A C S S
+C A C C S
+C A C C C
+C A C C A
+C A C A S
+C A C A C
+C A A C S
+C A A C C
+C A A A S
+A S S C S
+A S S C C
+A S S A S
+A S C S S
+A S C S C
+A S C C S
+A S C C C
+A S C C A
+A S C A S
+A S C A C
+A S C A A
+A S A S S
+A S A C S
+A S A C C
+A S A C A
+A S A A S
+A S A A C
+A C S C S
+A C C S S
+A C C C S
+A C C C C
+A C C C A
+A C C A S
+A C C A C
+A C A C S
+A C A C C
+A C A A S
+A A S S S
+A A S C S
+A A S C C
+A A S C A
+A A S A S
+A A S A C
+A A C S S
+A A C S C
+A A C S A
+A A C C S
+A A C C C
+A A C C A
+A A C A S
+A A C A C
+A A C A A
+A A A S S
+A A A S C
+A A A C S
+A A A C C
+A A A C A
+A A A A S
+A A A A C
+A A A A A
+43
+4 5 A A A C S
+4 6 A A C A S
+3 5 A A A A S
+3 5 A A S C S
+3 5 A S A C S
+3 5 S A A C S
+3 6 A A C S S
+3 6 A S C A S
+3 6 S A C A S
+2 5 A A A C A
+2 5 A A A S S
+2 5 A A S A S
+2 5 A S A A S
+2 5 A S S C S
+2 5 S A A A S
+2 5 S S A C S
+2 6 A A A A C
+2 6 A A C A A
+2 6 A S C S S
+2 6 S A C S S
+2 6 S A S C S
+2 6 S S C A S
+1 5 A A A A A
+1 5 A A S C A
+1 5 A A S S S
+1 5 A C A A S
+1 5 A S A C A
+1 5 A S A S S
+1 5 A S S A S
+1 5 S A A C A
+1 5 S A A S S
+1 5 S S A A S
+1 6 A A A S C
+1 6 A A C S A
+1 6 A A S A C
+1 6 A S A A C
+1 6 A S C A A
+1 6 C A A A S
+1 6 S A A A C
+1 6 S A C A A
+1 6 S A S A S
+1 6 S S C S S
+1 6 S S S C S
+
+4 5 A A A C S
+4 6 A A C A S
+3 5 A A A A S
